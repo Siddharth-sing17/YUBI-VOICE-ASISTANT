@@ -1,0 +1,5 @@
+speechrecognition
+gTTS
+playsound
+requests
+tkinter
