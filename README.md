@@ -15,3 +15,7 @@ Yubi is a simple yet powerful voice assistant built using Python. It listens to 
    ```bash
    pip install -r requirements.txt
 3. python yubi.py
+## 📽️ Demo
+
+Check out the [Demo Video on LinkedIn](https://www.linkedin.com/posts/siddharth-singh-878830338_python-voiceassistant-100daysofcode-activity-7355519760387731456-jEWD?utm_source=share&utm_medium=member_android&rcm=ACoAAFTXF9wBgsooMQU5AoHgUN97H9EIjG504yM)
+   
